@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;900&family=Ubuntu:wght@700&display=swap');
+
+* {
+    font-family:'Ubuntu', sans-serif ;
+}
+
+.btn{
+    margin: 4px;
+    padding: 7%;
+    width:46%;
+}
+.schifo{
+    width: 97%;
+}
+.lead{
+    letter-spacing: 1px;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    
+}
+
+span{
+    color: #DC3545;
+    margin-right: 10%;
+    margin-left: 2%;
+    text-align: center;
+}
+::placeholder{
+    
+    text-align: start;
+    font-family:'Ubuntu', sans-serif ;
+    font-size: 20px;
+    color: black;
+   
+}
+input{
+    width: 100%;
+    padding: 2% ;
+    margin-top: 5%;
+}
+
+.mio-sfondo {
+    background-color: rgb(91, 91, 91);
+}
+.mio-sfondo1 {
+    background-color: rgba(128, 128, 128, 0.501);
+}
+.mio-descrizione {
+    font-size: 18px;
+}
+
+
+.mio-contenitore {
+    font-size: 25px;
+    padding: 5%;
+    margin-top: 2%;
+    border-styl;
+    
+}
